@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.3",
+    "browserslist": "^4.16.6",
     "gsap": "^3.6.1",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^17.0.1",
@@ -18,7 +19,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "postcss": "4.2.1",
+    "browserslist":"4.16.6"
   },
   "eslintConfig": {
     "extends": [

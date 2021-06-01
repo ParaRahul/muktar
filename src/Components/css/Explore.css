@@ -1,5 +1,6 @@
 .explore{
     background: linear-gradient(356deg, rgba(37,55,134,1) 0%, rgba(100,112,177,1) 28%, rgba(163,168,220,1) 86%);
+   
 }
 
 
@@ -11,6 +12,7 @@
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+    margin-bottom: 50px;
     /* display: grid; */
     /* grid-template-columns: repeat(auto-fit, 250px); */  
 }

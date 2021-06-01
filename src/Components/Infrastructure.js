@@ -24,6 +24,7 @@ export default function Infrastructure() {
                         description="Industrial cluster and park for the manufacture, maintenance, repair, overhaul, service, design, engineering, logistics, etc of aircraft and precision engineered sub-assemblies, components and parts of metal, composites and other material by established and start-up entrepreneurs"
                         photo={photo2}
                         alt="img1"
+                        lin="https://aeropark.space/"
                         />
                     </div>
                     
@@ -33,6 +34,7 @@ export default function Infrastructure() {
                         description="A green, sustainable, eco-friendly, smart city with best and latest of available technologies and processes for a society of tomorrow in a world of social distancing, connected living and multi-generational accessibility; an urbane environment in the countryside."
                         photo={photo1}
                         alt="img1"
+                        
                         />
                     </div>
 
@@ -42,6 +44,7 @@ export default function Infrastructure() {
                         description="Airport with a modularised terminal building scalable to commercial demands with digital air traffic control, multiple hangars, aircraft test facility, multi-modal logistics hub, a viewing gallery for air shows, multi-fuel station and proximity to the Aeropark."
                         photo={photo4}
                         alt="img1"
+                        
                         />
                     </div>
 
@@ -51,6 +54,7 @@ export default function Infrastructure() {
                         description="Engineering, procurement and construction (EPC) besides planning, designing and simulation too. We provide town planning, civil and environmental engineering and technology identification and deployment services and consultations!"
                         photo={photo3}
                         alt="img1"
+                        lin="http://suritrans.com/"
                         />
                     </div>
 

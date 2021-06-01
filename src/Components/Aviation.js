@@ -27,6 +27,7 @@ export default function Aviation() {
                         description="An airline for a post lockdown world with greater hygiene and social distancing as the new norm for domestic and international air travel"
                         photo={photo1}
                         alt="img1"
+                        lin="https://doelairways.com/"
                         />
                     </div>
                     <div className="col s12 m6 l6"> 
@@ -35,6 +36,7 @@ export default function Aviation() {
                         description="Sale of aviation fuel + Line services for general aviation aircraft + Aircraft rental and sightseeing + Aircraft storage (tie-down or hangar) + Airplane & Fleet management + Aerial advertising and Aerial survey"
                         photo={photo2}
                         alt="img1"
+                        
                         />
                     </div>
                     <div className="col s12 m6 l6"> 
@@ -43,6 +45,7 @@ export default function Aviation() {
                         description="An unscheduled air operator for a post lockdown world requiring greater hygiene and social distancing as the new norm for domestic and international air travel with exclusive or shared occupancy"
                         photo={photo3}
                         alt="img1"
+                        lin="http://www.muktair.online/"
                         />
                     </div>
                     <div className="col s12 m6 l6"> 
@@ -51,6 +54,7 @@ export default function Aviation() {
                         description="A club with flying as its primary sport, promoting “soaring” – the unfettered flying of unpowered aircraft, sailplanes, riding naturally occurring rising currents of air, thermals; a skill taught to every aspiring pilot."
                         photo={photo4}
                         alt="img1"
+                        lin="https://soaring.casa/"
                         />
                     </div>
 

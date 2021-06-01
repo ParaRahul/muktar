@@ -1,42 +1,24 @@
-
-
-
 .home{
     width: 100vw;
     height: 100vh;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center; */
-    /* border: 2px solid orange; */
 }
-
-/* 
-.home .container{
-    color:darkgrey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 70vh;
-    flex-direction: column;
-}
- */
-
-
 
 
 .containerrr{
-    width: 70%;
+    width: 85%;
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 10%
 }
 
 
 .heading{
     color: white;
     text-align: center;
-    
 }
 
-
-
-
+@media( max-width:320px){
+   
+    .heading > p{
+    font-size: 3.7vw;
+    }
+}
